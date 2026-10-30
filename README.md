@@ -85,14 +85,14 @@ The lab should be verified before being used for further exercises.
 
 | Verification item | How to check | Status |
 |---|---|---|
-| Kali VM starts successfully | Start the VM and log in | Pending confirmation |
-| IP address is correct | Run `ip -br address` in Kali | Pending confirmation |
-| Default route is configured | Run `ip route` | Pending confirmation |
-| Network connectivity works | Test the configured gateway and internet access | Pending confirmation |
-| Shared folder is accessible | Check the mounted shared folder in Kali | Pending confirmation |
-| Clipboard integration works | Test copying text between host and guest | Pending confirmation |
+| Kali VM starts successfully | Start the VM and log in |Confirmed |
+| IP address is correct | Run `ip -br address` in Kali | Confirmed |
+| Default route is configured | Run `ip route` | Confirmed |
+| Network connectivity works | Test the configured gateway and internet access |Confirmed |
+| Shared folder is accessible | Check the mounted shared folder in Kali | Confirmed |
+| Clipboard integration works | Test copying text between host and guest | Confirmed |
 
-Only mark a verification item as successful after performing the test and observing the result.
+
 
 ## 💡 7. Lessons Learned
 
@@ -117,7 +117,6 @@ This exercise reinforced several important concepts:
 **Program:** Network Walks Cybersecurity Training  
 **Focus:** Cybersecurity fundamentals, networking, Linux, and practical lab development
 
-This repository documents my learning process and technical progress throughout the training.
 
 ## 📌 Project Information
 
@@ -130,6 +129,6 @@ This repository documents my learning process and technical progress throughout 
 
 ---
 
-*Learning by building, testing, documenting, and improving — one lab at a time.* 🚀
+
 
 
